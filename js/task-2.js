@@ -8,6 +8,8 @@ function calcAverageCalories(day) {
   return aver;
 }
 
+console.log("__________________task 2____________________");
+
 console.log(
   calcAverageCalories([
     { day: "monday", calories: 3010 },
